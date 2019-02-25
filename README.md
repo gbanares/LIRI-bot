@@ -28,4 +28,4 @@ Available commands:
 
 ### Demo
 
-https://drive.google.com/file/d/1Aw71TIKBXphdCjqlXpRoOc7HDhyquhYr/view
+![LIRI Bot](https://drive.google.com/file/d/1Aw71TIKBXphdCjqlXpRoOc7HDhyquhYr/view "LIRI Bot")
